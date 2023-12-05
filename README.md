@@ -34,9 +34,19 @@ Contributions are welcome! Please submit pull requests or open issues on the [Gi
 
 # Resources
 
+## Video tutorials
+
+- [Understanding and protecting GPTs against instruction leakage and cracking](https://www.youtube.com/watch?v=O8h_j9jJFjA)
+- [Introducing the GPT-Analyst](https://www.youtube.com/watch?v=3KqW_-vV6d4)
 - [A gentle introduction to reverse engineering GPTs](https://youtu.be/HEAPCyet2XM)
 - [A guide to building a practical GPT for Reverse Engineering](https://youtu.be/u_5-I8Hcouk)
+
+## Sites
+
+- [Jailbreak Chat](http://jailbreakchat.com)
 - [Crack GPTs](http://crackgpts.com)
+  
+## Repos
+
 - [Collection of leaked GPTs](https://github.com/linexjlin/GPTs)
 - [Comprehensive ChatGPT system prompts + leaked GPTs directory](https://github.com/LouisShark/chatgpt_system_prompt)
-- [Jailbreak Chat](http://jailbreakchat.com)
