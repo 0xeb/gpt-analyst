@@ -3,13 +3,13 @@ In this repository, you'll discover a rich array of resources for [GPT developer
 
 For those focused on safeguarding their custom GPTs, you can find a [comprehensive guide](protecting-gpts.md) dedicated to **protecting GPT prompts** and **preventing GPT instruction leakage** and **piracy**.
 
-Additionally, this repo is the home of [**GPT-Analyst**](gpt-analyst.md), a specialized GPT used to assist you in understand and breaking down GPTs source code / instructions.
+Additionally, this repo is the home of [**GPT-Analyst**](./gpts/gpt-analyst.md), a specialized GPT used to assist you in understand and breaking down GPTs source code / instructions.
 
 # GPT-Analyst
 
 ![Logo](gpt-analyst.png)
 
-[**GPT-Analyst**](gpt-analyst.md), created by [Elias Bachaalany](https://twitter.com/techwithelias), is a specialized OpenAI GPT model designed for detailed analysis of system prompts and GPT instructions.
+[**GPT-Analyst**](./gpts/gpt-analyst.md), created by [Elias Bachaalany](https://twitter.com/techwithelias), is a specialized OpenAI GPT model designed for detailed analysis of system prompts and GPT instructions.
 
 GPT-Analyst, found [here](https://chat.openai.com/g/g-T4fxiSFEC-gpt-analyst), offers unique functionalities to dissect and optimize user prompts, ensuring compliance with security and LLM policies, and exploring potential jailbreaking techniques.
 
@@ -26,7 +26,7 @@ Start your prompt with the relevant command (e.g., `/sec`, `/op`, `/jb`) followe
 - `/lang`: Language Selection - Sets the default language for GPT-Analyst's responses.
 - `/download`: Downloads the latest output of GPT-Analyst.
 
-Please refer to GPT-Analyst's source code [here](gpt-analyst.md).
+Please refer to GPT-Analyst's source code [here](./gpts/gpt-analyst.md).
 
 # Contributing
 
