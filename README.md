@@ -4,7 +4,7 @@ In this repository, you'll discover a rich array of resources for [GPT developer
 
 <u>Table of Contents:</u>
 
-* **Safeguarding and preventing GPT instruction leakage** and **piracy**: A [comprehensive guide](./protections/README.md) dedicated to **protecting GPT prompts** with other than 30 protection techniques.
+* **Safeguarding and preventing GPT instruction leakage** and **piracy**: A [comprehensive guide](./protections/README.md) dedicated to **protecting GPT prompts** with more than 30 protection techniques.
 
 * **GPT-Analyst**: this repo is also the home of [**GPT-Analyst**](./gpts/README.md), a specialized GPT used to assist you in understand and breaking down GPTs source code / instructions.
 

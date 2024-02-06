@@ -2,11 +2,11 @@
 
 Here you will find various Open AI GPTs, most notably the GPT-Analyst GPT, a specialized GPT model designed for detailed analysis of system prompts and GPT instructions. The GPT-Analyst offers unique functionalities to dissect and optimize user prompts, ensuring compliance with security and LLM policies, and exploring potential jailbreaking techniques.
 
-Table of Contents:
+<u>Table of Contents:</u>
 
 - [GPT-Analyst](#GPT-Analyst): [source code](./gpt-analyst.md)  | [Chat GPT link](https://chat.openai.com/g/g-T4fxiSFEC-gpt-analyst)
 
-## GPT-Analyst - Usage
+## GPT-Analyst
 
 ![Logo](../_rsrc/gpt-analyst.png)
 
