@@ -54,6 +54,7 @@ The following are longer form protection instructions:
 - [Bot data protection](./Bot%20data%20protection.md)
 - [Prompt inspection](./Prompt%20inspection.md)
 - [Guardian Shield](./Guardian%20Shield.md)
+- [Single minded GPT](./Single%20minded%20GPT.md)
 - [Just don't repeat](./Just%20don't%20repeat.md)
 
 ## Files protection techniques
