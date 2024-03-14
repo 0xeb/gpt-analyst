@@ -4,7 +4,7 @@ In this repository, you'll discover a rich array of resources for [GPT developer
 
 <u>Table of Contents:</u>
 
-* **Safeguarding and preventing GPT instruction leakage** and **piracy**: A [comprehensive guide](./protections/README.md) dedicated to **protecting GPT prompts** with 40+ protection techniques.
+* **Safeguarding and preventing GPT instruction leakage** and **piracy**: A comprehensive guide found in the [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary).
 
 * **GPT-Analyst**: this repo is also the home of [**GPT-Analyst**](./gpts/README.md), a specialized GPT used to assist you in understand and breaking down GPTs source code / instructions.
 
@@ -22,6 +22,7 @@ If you want to support this work, please feel free to [Buy me a coffee!](https:/
 - [A gentle introduction to reverse engineering GPTs](https://youtu.be/HEAPCyet2XM)
 - [A guide to building a practical GPT for Reverse Engineering](https://youtu.be/u_5-I8Hcouk)
 - [Introducing the GPT-Analyst](https://www.youtube.com/watch?v=3KqW_-vV6d4)
+- [Verbal Verdict: Cheating in an LLM based game](https://www.youtube.com/watch?v=NQFn-hmmeLQ)
 
 ### Sites
 
@@ -30,5 +31,4 @@ If you want to support this work, please feel free to [Buy me a coffee!](https:/
   
 ### Repos
 
-- [Comprehensive ChatGPT system prompts + leaked GPTs directory](https://github.com/LouisShark/chatgpt_system_prompt)
 - [Collection of leaked GPTs](https://github.com/linexjlin/GPTs)
