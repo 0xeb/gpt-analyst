@@ -28,7 +28,3 @@ If you want to support this work, please feel free to [Buy me a coffee!](https:/
 
 - [Crack GPTs](http://crackgpts.com)
 - [Jailbreak Chat](http://jailbreakchat.com)
-  
-### Repos
-
-- [Collection of leaked GPTs](https://github.com/linexjlin/GPTs)
